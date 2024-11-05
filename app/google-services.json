@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923252198357",
+    "project_id": "authentication-f1ed0",
+    "storage_bucket": "authentication-f1ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923252198357:android:0dd5934bde57f2eba00b5c",
+        "android_client_info": {
+          "package_name": "com.example.beercellar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYB1BgGe_Axlo_HWc3ceh7aPrqPA0VLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
